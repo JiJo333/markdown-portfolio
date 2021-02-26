@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# My favorite things
+- Pizza
+- Biryani
+- Tennis
+  * Formula 1
+1. GU
+2. ET
